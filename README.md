@@ -2,7 +2,7 @@
 
 - 👀 I’m fascinated by machine learning, cybersecurity, and sustainability. In my downtime, I'm a big fan of playing video games.
 
-- 🌱 Currently, I’m pursuing Computer Science at the University of Ghana. When I'm not engrossed in code, you'll often find me exploring classic Nintendo games or delving into retro arcade adventures.
+- 🌱When I'm not engrossed in code, you'll often find me exploring classic Nintendo games or delving into retro arcade adventures.
 
 - 💞️ I’m enthusiastic about collaborating on projects related to AI for sustainability, cybersecurity solutions, and innovations in green technology. Let’s brainstorm ideas over a virtual gaming session brimming with nostalgia and creativity!
 
